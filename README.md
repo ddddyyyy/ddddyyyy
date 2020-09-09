@@ -14,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=ddddyyyy)
+<table width="100%" style="border:0" > 
+  <tr>
+  <td width="50%"  style="border:0">
+    
+&nbsp; <br> ![Madyson's github stats](https://github-readme-stats.vercel.app/api?username=ddddyyyy&count_private=true&show_icons=true)
+    
+  </td>
+  <td width="50%" style="margin:auto;border:0">
+  
+&nbsp; <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddddyyyy&layout=compact)
+  
+  </td>
+</table>
